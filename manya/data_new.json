@@ -1,0 +1,78 @@
+{
+    "data": [
+      {
+        "tag": "Fire",
+        "patterns": [
+          "Fire",
+          "Flames",
+          "Choking",
+          "Suffocating",
+          "Burning",
+          "Smoke",
+          "heat",
+          "burns",
+          "blaze",
+          "inferno","volcano"                                                                                                    
+        ],
+        "responses": [
+          "Please consider the following measures- \n 1. Stay calm and do not panic \n 2. Sound the fire alarm and shout to alert others in the house \n 3. Call the local fire department immediately by dialing 101 or the emergency number in your area. Provide them with your address and details of the fire. \n 4. Close all doors and windows to contain the fire and prevent it from spreading. \n 5. Evacuate the house immediately and gather at a safe location outside.\n"
+        ]
+      },
+      {
+        "tag": "Earthquake",
+        "patterns": [
+          "Earthquake", 
+          "Falling", 
+          "shaking",
+          "moving",
+          "cracks",
+          "rupturing",
+          "swinging",
+          "aftershock",
+          "tremor",
+          "seismic",
+          "epicenter",
+          "tsunami",
+          "magintude",
+          "richter",
+          "damage"
+          ],
+        "responses": [
+          "Please consider the following measures- \n 1. Stay calm and don't panic. \n 2. If you are indoors: \n Take cover under a sturdy piece of furniture or against an interior wall. \n Stay away from windows, mirrors, and other objects that can break.\n Do not use elevators. \n 3. If you are outdoors: \n Move to an open area away from buildings, power lines, and other potential hazards.\n Avoid bridges, overpasses, and other structures that can collapse.\n 4. If you are in a vehicle:\n Pull over to a safe location and stop the car.\n Stay inside the vehicle until the shaking stops.\n 5. If you are at work or school:\n Follow the evacuation plan and procedures established by the building management. \n Do not use elevators.\n Follow the instructions of emergency personnel. \n 6. Call the emergency number 1091 to seek further help. \n"
+        ]
+      },
+      {
+        "tag": "Flood",
+        "patterns": [
+          "Water", 
+          "Flood",
+          "flooding", 
+          "submerge",
+          "drowning", 
+          "rainfall",
+          "storm",
+          "road closure"
+          ],
+        "responses": [
+          "Please consider the following measures- \n 1. Stay informed and stay updated about the flood warning and evacuation orders issued by the local authorities, and follow their instructions.\n 2. If you are in a flood-prone area, be prepared to evacuate immediately.\n 3. If you are at home, move to the highest point in your home.\n 4. Turn off all electricity, gas, and water supplies if instructed to do so by the authorities.\n 5. Do not try to move too much water by yourself. Call the emergency number 1090 to seek professional help. \n"
+          ]
+      },
+      {
+        "tag": "Avalanche",
+        "patterns": [
+          "Snow", 
+          "avalanche",
+          "snowpack",
+          "debris",
+          "slab",
+          "runout",
+          "beacon",
+          "probe",
+          "shovel"
+          ],
+        "responses": [
+          "Please consider the following measures- \n 1. Try to stay on the surface of the snow by swimming or using other means to stay afloat.\n 2. Try to hold onto a tree or other objects that will not be carried away by the avalanche.\n 3. Cover your nose and mouth with your hand or a piece of clothing to protect yourself from the snow.\n 4. If you are unable to move, try to stand as still as possible to conserve energy and avoid inhaling snow .\n 5. Call the emergency number 108 to seek further help.\n"
+          ]
+      }
+    ]
+  }
