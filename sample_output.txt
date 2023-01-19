@@ -1,0 +1,129 @@
+Have you configured your emergency contacts? (y/n) 
+Listening...
+Recognizing...
+result2:
+{'alternative': [{'confidence': 0.7411685, 'transcript': 'no'}], 'final': True}
+You: no
+
+Enter the name of your emergency contact: 
+Listening...
+Recognizing...
+result2:
+{   'alternative': [{'confidence': 0.88687539, 'transcript': 'Shivansh'}],
+    'final': True}
+You: Shivansh
+
+Enter the phone number of your emergency contact: 
+Listening...
+Recognizing...
+result2:
+{   'alternative': [   {'confidence': 0.85951489, 'transcript': '9650 941571'},
+                       {'transcript': '96509 41571'},
+                       {'transcript': '9650 94 1571'},
+                       {'transcript': '96509 415 71'}],
+    'final': True}
+You: 9650 941571
+
+Are you in a safe location? (y/n) 
+Listening...
+Recognizing...
+result2:
+{'alternative': [{'confidence': 0.7435388, 'transcript': 'no'}], 'final': True}
+You: no
+
+no
+Please describe the emergency: 
+Listening...
+Recognizing...
+result2:
+{   'alternative': [{'confidence': 0.88687539, 'transcript': 'heart attack'}],
+    'final': True}
+You: heart attack
+
+Please enter your current location: 
+Listening...
+Recognizing...
+result2:
+{   'alternative': [{'confidence': 0.88687539, 'transcript': 'New Delhi'}],
+    'final': True}
+You: New Delhi
+
+On a scale of 10 to 15, how urgent is the emergency? 
+Listening...
+Recognizing...
+result2:
+[]
+
+Say that again please...
+Listening...
+Recognizing...
+result2:
+[]
+
+Say that again please...
+Listening...
+Recognizing...
+result2:
+[]
+
+Say that again please...
+Listening...
+Recognizing...
+result2:
+{'alternative': [{'confidence': 0.74872327, 'transcript': '11'}], 'final': True}
+You: 11
+
+Enter the name of your emergency contact: 
+Listening...
+Recognizing...
+result2:
+{   'alternative': [{'confidence': 0.88687539, 'transcript': 'Shivansh'}],
+    'final': True}
+You: Shivansh
+
+Enter the phone number of your emergency contact: 
+Listening...
+Recognizing...
+result2:
+{   'alternative': [   {'confidence': 0.8282491, 'transcript': '965094 1571'},
+                       {'transcript': '9650 941571'},
+                       {'transcript': '9650 94 1571'},
+                       {'transcript': '96509 41571'}],
+    'final': True}
+You: 965094 1571
+
+fail
+The emergency message has been sent. Would you like to call emergency services now ? (y/n) 
+Listening...
+Recognizing...
+result2:
+{'alternative': [{'confidence': 0.82889026, 'transcript': 'no'}], 'final': True}
+You: no
+
+Thank you for using the emergency chatbot. Stay safe.
+Do you need some more help? (y/n) 
+Listening...
+Recognizing...
+result2:
+{'alternative': [{'confidence': 0.87474662, 'transcript': 'no'}], 'final': True}
+You: no
+
+Thank you for using the emergency chatbot. Stay safe.
+Which emergency service do you need? (police, fire, ambulance) 
+Listening...
+Recognizing...
+result2:
+[]
+
+Say that again please...
+Listening...
+Recognizing...
+result2:
+{   'alternative': [{'confidence': 0.88687539, 'transcript': 'ambulance'}],
+    'final': True}
+You: ambulance
+
+Invalid service provided.
+Stay calm and call for emergency services immediately.
+1
+​
